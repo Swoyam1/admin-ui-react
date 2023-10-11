@@ -1,6 +1,6 @@
 import DataTable from "../../components/dataTable/DataTable";
 
-import { GridColDef, GridValueGetterParams } from "@mui/x-data-grid";
+import { GridColDef} from "@mui/x-data-grid";
 import { userRows } from "../../data";
 
 const columns: GridColDef[] = [
