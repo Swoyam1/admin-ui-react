@@ -1,4 +1,5 @@
 import BarChartBox from "../../components/barChartBox/BarChartBox";
+// @ts-ignore
 import PieChartBox from "../../components/pieCartBox/PieChartBox";
 import ChartBox from "../../components/chartBox/ChartBox";
 import { TopBox } from "../../components/topBox/TopBox";
